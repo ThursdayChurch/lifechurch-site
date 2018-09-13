@@ -2,18 +2,11 @@
 
 /* TEAM */
 
-  Adam Fairhead
-    LifeChurch.tv
-    adam.fairhead@lifechurch.tv
-    http://adamfairhead.com
-    @adamfairhead
-
-  Scott Lesser
-    LifeChurch.tv
-    scott.lesser@lifechurch.tv
-    http://scottlesser.com
-    @okcscott
-
+  Jay Greentree
+    ThursdayChurch.org
+    webmaster@thursdaychurch.org
+    http://jaygreentree.net
+    @JayTheITGuy1983
 
 /* SITE */
 
