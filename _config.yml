@@ -1,10 +1,6 @@
 baseurl: /
 permalink: /:categories/:title/
-<<<<<<< HEAD
 #markdown: rdiscount
-=======
-#markdown: kramdown
->>>>>>> 5bb230c37f5b68fcc8796836e789dd39dd7d293d
 excerpt_separator: ""
 relative_permalinks: false
 

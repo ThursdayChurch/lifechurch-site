@@ -2,11 +2,18 @@
 
 /* TEAM */
 
-  Jay Greentree
-    ThursdayChurch.org
-    webmaster@thursdaychurch.org
-    http://jaygreentree.net
-    @JayTheITGuy1983
+  Adam Fairhead
+    Thursday Church
+    adam.fairhead@Thursday Church
+    http://adamfairhead.com
+    @adamfairhead
+
+  Scott Lesser
+    Thursday Church
+    scott.lesser@Thursday Church
+    http://scottlesser.com
+    @okcscott
+
 
 /* SITE */
 

@@ -1,8 +1,8 @@
-// LifeGroups page section
+// LIFE Groups page section
 
   // Establish the height of the main section
   // Small
-  .section-lifegroups-top {
+  .section-LIFE Groups-top {
     
 
     // Medium sized
@@ -27,18 +27,18 @@
   }
 
   // Hide the tertiary nav
-  .lifegroups .page-tertiary {
+  .LIFE Groups .page-tertiary {
     display: none;
   }
 
   // Clear the call to action
-  .section-lifegroups-find {
+  .section-LIFE Groups-find {
     padding: 4em 0 3.5em;
     clear: both;
   }
 
   // Tiles below main section
-  .section-lifegroups-tiles {
+  .section-LIFE Groups-tiles {
     max-width: 1500px;
     margin: 0 auto;
     background: #222;
@@ -51,7 +51,7 @@
   }
 
   // The tiles themselves
-  .lifegroups-tile {
+  .LIFE Groups-tile {
     height: 180px;
     width: 100%;
     text-align: center;
@@ -98,13 +98,13 @@
       }
 
       // Remove borders from first/last on large
-      &.lifegroups-tile-first,
-      &.lifegroups-tile-last {
+      &.LIFE Groups-tile-first,
+      &.LIFE Groups-tile-last {
         border: none;
       }
 
       // Make last a little larger for math
-      &.lifegroups-tile-last {
+      &.LIFE Groups-tile-last {
         width: 34%;
       }
     }
@@ -121,52 +121,52 @@
   }
 
   // Tile 1
-  .lifegroups-tile-1 {
-    @include background-image-2x-jpg('/images/lifegroups/lifegroups-1-tile');
+  .LIFE Groups-tile-1 {
+    @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-1-tile');
   }
 
   // Tile 2
-  .lifegroups-tile-2 {
-    @include background-image-2x-jpg('/images/lifegroups/lifegroups-2-tile');
+  .LIFE Groups-tile-2 {
+    @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-2-tile');
   }
 
   // Tile 3
-  .lifegroups-tile-3 {
-    @include background-image-2x-jpg('/images/lifegroups/lifegroups-3-tile');
+  .LIFE Groups-tile-3 {
+    @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-3-tile');
   }
 
   // Tile 4
-  .lifegroups-tile-4 {
-    @include background-image-2x-jpg('/images/lifegroups/lifegroups-4-tile');
+  .LIFE Groups-tile-4 {
+    @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-4-tile');
   }
 
 
 // Page-specific
 
-  .has-alerts.lifegroups-1,
-  .has-alerts.lifegroups-2,
-  .has-alerts.lifegroups-3,
-  .has-alerts.lifegroups-4 {
+  .has-alerts.LIFE Groups-1,
+  .has-alerts.LIFE Groups-2,
+  .has-alerts.LIFE Groups-3,
+  .has-alerts.LIFE Groups-4 {
     background-position: left 44px;
     @media #{$medium-up} {
       background-position: center 44px;
     }
   }
 
-  // LifeGroups 1
-  .lifegroups-1 {
+  // LIFE Groups 1
+  .LIFE Groups-1 {
     background-repeat: no-repeat;
     background-color: #222;
 
     @media #{$small-only} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-1-thin');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-1-thin');
       background-color: #f1eae4;
       background-size: 100% auto;
       background-position: left top;
     }
 
     @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-1');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-1');
       background-size: 1700px auto;
       background-position: -320px top;
     }
@@ -177,20 +177,20 @@
     }
   }
 
-  // LifeGroups 2
-  .lifegroups-2 {
+  // LIFE Groups 2
+  .LIFE Groups-2 {
     background-repeat: no-repeat;
     background-color: #222;
 
     @media #{$small-only} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-2-thin');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-2-thin');
       background-size: 100% auto;
       background-position: left top;
       background-color: #e9e9dd;
     }
 
     @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-2');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-2');
       background-size: 1700px auto;
       background-position: -320px top;
     }
@@ -201,20 +201,20 @@
     }
   }
 
-  // LifeGroups 3
-  .lifegroups-3 {
+  // LIFE Groups 3
+  .LIFE Groups-3 {
     background-repeat: no-repeat;
     background-color: #222;
 
     @media #{$small-only} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-3-thin');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-3-thin');
       background-size: 100% auto;
       background-position: left top;
       background-color: #000;
     }
 
     @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-3');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-3');
       background-size: 1700px auto;
       background-position: -320px top;
     }
@@ -225,20 +225,20 @@
     }
   }
 
-  // LifeGroups 4
-  .lifegroups-4 {
+  // LIFE Groups 4
+  .LIFE Groups-4 {
     background-repeat: no-repeat;
     background-color: #222;
 
     @media #{$small-only} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-4-thin');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-4-thin');
       background-size: 100% auto;
       background-position: left top;
       background-color: #e9e9dd;
     }
 
     @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/lifegroups/lifegroups-4');
+      @include background-image-2x-jpg('/images/LIFE Groups/LIFE Groups-4');
       background-size: 1700px auto;
       background-position: -320px top;
     }
