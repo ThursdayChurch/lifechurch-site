@@ -1,6 +1,8 @@
 <!doctype html>
-<!--[if lt IE 9]>       <html class="no-js lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
-<!--[if gte IE 9]><!--> <html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
+<!--[if lt IE 9]>       
+<html class="no-js lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <![endif]-->
+<!--[if gte IE 9]><!-->
+ <html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"> <!--<![endif]-->
   <head>
     <script src="//cdn.optimizely.com/js/707930009.js"></script>
 
@@ -22,17 +24,7 @@
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script src="http://fast.wistia.net/static/iframe-api-v1.js"></script>
 
-    <!-- Google Analytics -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      //ga('create', 'UA-3571547-95', 'lifechurch.tv');
-      ga('create', 'UA-3571547-95', 'none');
-      ga('send', 'pageview');
-    </script>
-
+   
     {% if page.section == 'watch' %}
     {% for series in site.data.watch %}
     {% if series.id == page.series-id %}
@@ -89,7 +81,7 @@
       <div class="row">
         {% if page.section == "home" %}<div class="small-12 medium-3 large-3 columns">{% else %}<div class="small-4 medium-3 large-3 columns">{% endif %}
           <!-- Site Title -->
-          <a class="logo" href="/"><span>LifeChurch.tv</span></a>
+          <a class="logo-new" href="/"><span>Thursday Church</span></a>
         </div>
         <div class="small-8 medium-9 large-9 columns">
           <!-- Primary Links -->
