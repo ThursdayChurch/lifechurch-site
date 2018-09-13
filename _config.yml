@@ -1,12 +1,16 @@
 baseurl: /
 permalink: /:categories/:title/
+<<<<<<< HEAD
 #markdown: rdiscount
+=======
+#markdown: kramdown
+>>>>>>> 5bb230c37f5b68fcc8796836e789dd39dd7d293d
 excerpt_separator: ""
 relative_permalinks: false
 
 prose:
   rooturl: 'announcements/_posts'
-  siteurl: 'http://www.lifechurch.tv/'
+  siteurl: 'http://dev.thursdaychurch.org/'
   metadata:
     _posts:
       - name: 'layout'
