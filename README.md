@@ -8,3 +8,4 @@
   * [bower](http://bower.io): `npm install bower -g`
   * [foundation](http://foundation.zurb.com): `gem install foundation`
   * [jekyll](http://jekyllrb.com): `gem install jekyll`
+  * [jekyll-admin](https://github.com/jekyll/jekyll-admin/): gem 'jekyll-admin', group: :jekyll_plugins
