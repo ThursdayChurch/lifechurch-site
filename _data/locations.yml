@@ -1,55 +1,20 @@
 ---
-- id: mor
-  title: Moore OK Campus
+- id: vin
+  title: Vincennes Campus
   email: ''
-  address: 2916 S. Telephone Rd. Moore, OK 73160
-  facebook: '409843575804511'
+  address: 218 Main. Vincennes, IN 47591
+  facebook: 'thursdaychurch2008'
   times:
-  - title: 08:30AM
-    time: 08-30
+  - title: 10:45AM
+    time: 10-45
     day: sun
     duration: 60
     type: service-time
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
+  - title: 06:45PM
+    time: 18-45
+    day: thu
     duration: 60
     type: service-time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
   missions: []
 - id: alb
   title: Albany NY Campus
