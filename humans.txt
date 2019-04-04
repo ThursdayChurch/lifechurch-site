@@ -2,11 +2,11 @@
 
 /* TEAM */
 
-  Adam Fairhead
+  Jay Greentree
     Thursday Church
-    adam.fairhead@Thursday Church
-    http://adamfairhead.com
-    @adamfairhead
+    jay@ThursdayChurch.org
+    http://jaygreentree.net
+    @jaygreentree
 
   Scott Lesser
     Thursday Church
